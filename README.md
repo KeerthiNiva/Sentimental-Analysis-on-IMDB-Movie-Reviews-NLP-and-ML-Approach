@@ -1,3 +1,4 @@
+![poster picture](https://github.com/KeerthiNiva/Machine-learning-Sentimental-Analysis-on-IMDB-Movie-Reviews/assets/125920340/02917bbe-09c3-4465-983a-667b1e7aa23a)
 # Machine-learning-Sentimental-Analysis-on-IMDB-Movie-Reviews
 Leveraged Data Mining, Machine Learning, Exploratory Data Analysis, and Natural Language Processing for reliable sentiment classification of unstructured movie reviews.
 
